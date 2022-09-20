@@ -1,0 +1,11 @@
+sector: 3
+planet: erekir
+research: {
+  parent: intersect
+  objectives: [
+    tank-refabricator,
+    diffuse
+  ]
+}
+difficulty: 4
+enemyBase: true

@@ -1,0 +1,15 @@
+type: PowerNode
+size: 2
+health: 540
+laserRange: 24
+laserColor1: 90a2fc
+laserColor2: 5a58c4
+maxNodes: 35
+requirements: [
+  territe-alloy/10
+  scilaxa/10
+  crystal/5
+  inseltiene/5
+]
+category: power
+research: 0b-begin
